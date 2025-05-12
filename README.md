@@ -1,5 +1,5 @@
 # CS5806 — Final Project  
-**Quantifying Urban Heat Island Trends in the Appalachian Region Using Machine Learning and Geographically Weighted Regression**
+# Quantifying Urban Heat Island Trends in the Appalachian Region Using Machine Learning and Geographically Weighted Regression
 
 Urban Heat Islands (UHI)—where urban areas experience significantly higher temperatures than surrounding rural regions—pose serious environmental and public health challenges, particularly in rapidly urbanizing areas. Despite its ecological, economic, and historical significance, the Appalachian region has been largely overlooked in large-scale UHI modeling efforts.
 
